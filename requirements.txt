@@ -1,0 +1,10 @@
+numpy
+pandas 
+scikit-learn 
+lightgbm 
+fastapi 
+uvicorn 
+jinja2 
+joblib
+google-generativeai
+python-dotenv
