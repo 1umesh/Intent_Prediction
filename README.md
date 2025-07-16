@@ -18,6 +18,7 @@ An end-to-end machine learning and rule-based LLM system that predicts the **int
 ---
 
 ## 📁 Project Structure
+'''
 ├── backend/
 │   ├── main.py              # FastAPI app
 │   └── utils/
@@ -31,7 +32,7 @@ An end-to-end machine learning and rule-based LLM system that predicts the **int
 ├── conversion_pipeline.pkl
 ├── requirements.txt
 └── README.md
-
+'''
 ---
 
 ## 🔍 How It Works
