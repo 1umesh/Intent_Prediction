@@ -13,8 +13,8 @@ An end-to-end machine learning and rule-based LLM system that predicts the **int
 - 💻 **Frontend Dashboard** for user-friendly interaction
 - ✅ **Consent Checkbox** before submission (mock compliance)
 - ☁️ **Deployed on**:
-  - Frontend: GitHub Pages / Netlify
-  - Backend: Render / Railway / Localhost
+  - Frontend: GitHub Pages 
+  - Backend: Render / Localhost
 
 ---
 
