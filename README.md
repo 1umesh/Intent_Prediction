@@ -18,21 +18,26 @@ An end-to-end machine learning and rule-based LLM system that predicts the **int
 ---
 
 ## 📁 Project Structure
-'''
+<pre>
+```
 ├── backend/
-│   ├── main.py              # FastAPI app
+│   ├── main.py                  # FastAPI application
 │   └── utils/
-|       └── re_ranker.py 
+│       └── re_ranker.py         # Rule-based re-ranking logic
+│
 ├── frontend/
-│   ├── index.html
-│   ├── styles.css
-│   └── script.js
-├── train.py                 # ML pipeline training script
+│   ├── index.html               # User interface
+│   ├── styles.css               # UI styling
+│   └── script.js                # Frontend logic & API calls
+│
+├── train.py                     # Script to train ML model
 ├── customer_conversion_training_dataset.csv
-├── conversion_pipeline.pkl
-├── requirements.txt
+├── conversion_pipeline.pkl      # Trained ML pipeline
+├── requirements.txt             # Python dependencies
 └── README.md
-'''
+```
+</pre>
+
 ---
 
 ## 🔍 How It Works
